@@ -21,4 +21,10 @@ This is a audio and video recorder which asks for permission from the user to re
 # Project's Working
 
 1. The Main page of the project will be displayed.
- -  <img src="Screenshot from 2023-08-01 17-02-15.png" alt="img"/>
+2. There will be a video recorder by default and to activate the recorder, the permission must be given to the browser by clicking on "Allow" prompt.
+3. An audio button will switch the recorder from video to audio recording.
+4. Below the recordings, there is a "upload" button which will send the data to a server. (mock api through mockable.io)
+5. Once the data is uploaded, the result will be displayed in the console.
+6. Additional: There is a button to download the files in your local device.
+
+# Happy Coding!
