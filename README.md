@@ -21,4 +21,4 @@ This is a audio and video recorder which asks for permission from the user to re
 # Project's Working
 
 1. The Main page of the project will be displayed.
-   
+ -  <img src="Screenshot from 2023-08-01 17-02-15.png" alt="img"/>
